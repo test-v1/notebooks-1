@@ -1,0 +1,1448 @@
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10088.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10088.weights 0.6474111435101269 0.9128792088009778
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10192.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10192.weights 0.6350466209447484 0.9157684187131904
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10296.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10296.weights 0.7893198426082069 0.7801977997555284
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10400.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10400.weights 0.7242450723371201 0.8288698744304923
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1040.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1040.weights 0.8405311158798283 0.6964107123013669
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_104.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_104.weights 0.46646278250051837 1.0
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10504.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10504.weights 0.7031105350860952 0.8439826647405267
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10608.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10608.weights 0.7310095684436634 0.8319813312590287
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10712.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10712.weights 0.6957318190144716 0.8440937881986887
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10816.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10816.weights 0.736626777129999 0.8003111456828537
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_10920.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_10920.weights 0.7316151535703904 0.8390932325813979
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11024.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11024.weights 0.7005361930294907 0.8710967885320591
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11128.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11128.weights 0.6693467336683417 0.8880986776308478
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11232.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11232.weights 0.6709699629916516 0.8663184798310923
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11336.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11336.weights 0.7375796178343949 0.8364262695855095
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11440.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11440.weights 0.7428103571794085 0.8065340593399266
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1144.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1144.weights 0.7879065506184151 0.7645293921546839
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11544.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11544.weights 0.6564073412376157 0.8982109123235915
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11648.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11648.weights 0.7247520939636084 0.8365373930436715
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11752.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11752.weights 0.659303662341928 0.8922102455828426
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11856.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11856.weights 0.7598748111374919 0.7824202689187687
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_11960.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_11960.weights 0.6996738539590506 0.8582064673852651
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12064.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12064.weights 0.6772522713764116 0.8863207023002556
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12168.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12168.weights 0.7623546511627907 0.8159795532836982
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12272.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12272.weights 0.6588466901812813 0.8925436159573286
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12376.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12376.weights 0.7083449623220764 0.8460940104456051
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12480.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12480.weights 0.7115476760900814 0.8250916768529837
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1248.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1248.weights 0.6940096195889812 0.8818757639737749
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12584.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12584.weights 0.6888495575221238 0.8649849983331481
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12688.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12688.weights 0.7120059380218965 0.8527614179353261
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12792.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12792.weights 0.7101039576873974 0.8653183687076342
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_12896.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_12896.weights 0.7124667426833904 0.833203689298811
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13000.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13000.weights 0.7384785671161199 0.8155350594510501
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13104.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13104.weights 0.7491016007840575 0.7644182686965219
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13208.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13208.weights 0.7214169146587309 0.8350927880875653
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13312.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13312.weights 0.6858827671184651 0.8659851094566063
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13416.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13416.weights 0.6697434160386146 0.8788754306034003
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13520.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13520.weights 0.6497486622344738 0.8905433937104122
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1352.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1352.weights 0.8232801243113435 0.6476275141682409
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13624.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13624.weights 0.7261625635013678 0.8259806645182798
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13728.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13728.weights 0.7027849063777207 0.8216468496499612
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13832.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13832.weights 0.7049990496103402 0.8243138126458496
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_13936.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_13936.weights 0.7039498315237739 0.8357595288365374
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14040.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14040.weights 0.6621746820517139 0.8736526280697855
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14144.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14144.weights 0.7027398515531934 0.852205800644516
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14248.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14248.weights 0.6781785622921463 0.8837648627625292
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14352.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14352.weights 0.7037234990201319 0.8778753194799422
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14456.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14456.weights 0.6933788518551792 0.857650850094455
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14560.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14560.weights 0.7013770137701377 0.8659851094566063
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1456.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1456.weights 0.6493746327541341 0.8596510723413713
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14664.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14664.weights 0.7271075214538112 0.8003111456828537
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14768.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14768.weights 0.6771680216802168 0.8885431714634959
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14872.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14872.weights 0.7442528735632183 0.8058673185909545
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_14976.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_14976.weights 0.6710200597524542 0.8735415046116235
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15080.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15080.weights 0.6988503598467146 0.8308700966774086
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15184.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15184.weights 0.6637649619151251 0.8812090232248028
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15288.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15288.weights 0.7232245681381958 0.8374263807089677
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15392.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15392.weights 0.6794102520144009 0.8807645293921547
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15496.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15496.weights 0.677360774818402 0.870430047783087
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15600.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15600.weights 0.7398938342180482 0.8054228247583065
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1560.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1560.weights 0.7815453029460812 0.7811979108789866
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15704.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15704.weights 0.713096718645365 0.8283142571396822
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15808.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15808.weights 0.7525247156372914 0.7866429603289254
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_15912.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_15912.weights 0.7095825426944972 0.8310923435937326
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16016.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16016.weights 0.7043198529411765 0.8515390598955439
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16120.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16120.weights 0.7158546888200507 0.8474274919435493
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16224.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16224.weights 0.7066641530775757 0.833092565840649
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16328.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16328.weights 0.7173613841918993 0.8108678742082454
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16432.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16432.weights 0.7295783255245467 0.7959773308145349
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16536.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16536.weights 0.6864779321259011 0.8676519613290365
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16640.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16640.weights 0.6638046015338446 0.8848760973441494
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1664.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1664.weights 0.8274772497472194 0.7275252805867318
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16744.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16744.weights 0.7311475409836066 0.8425380597844205
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16848.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16848.weights 0.6872168428533357 0.8596510723413713
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_16952.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_16952.weights 0.6838990426457789 0.8732081342371375
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17056.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17056.weights 0.6836947094535993 0.8759862206911879
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17160.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17160.weights 0.6693020487970756 0.8748749861095677
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17264.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17264.weights 0.7231660610821958 0.8183131459051005
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17368.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17368.weights 0.6716130114017438 0.8902100233359262
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17472.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17472.weights 0.6992549518444485 0.8552061340148905
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17576.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17576.weights 0.6814967326112255 0.8459828869874431
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17680.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17680.weights 0.7134831460674157 0.8326480720080008
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1768.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1768.weights 0.7268369134322854 0.8760973441493499
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17784.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17784.weights 0.6940959409594096 0.8360928992110235
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17888.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17888.weights 0.7077579015664103 0.8485387265251695
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_17992.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_17992.weights 0.7052810902896082 0.8280920102233581
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18096.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18096.weights 0.7018840044329516 0.8445382820313369
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18200.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18200.weights 0.7369164061712211 0.8120902322480276
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18304.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18304.weights 0.7208661791243233 0.8434270474497166
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18408.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18408.weights 0.7255624515128006 0.8314257139682187
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18512.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18512.weights 0.6913218601244965 0.83920435603956
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18616.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18616.weights 0.7155851462865717 0.8479831092343594
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18720.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18720.weights 0.7091770388259335 0.8484276030670075
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1872.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1872.weights 0.7583716349310571 0.7700855650627848
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18824.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18824.weights 0.7422446665979594 0.8003111456828537
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_18928.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_18928.weights 0.726869335347432 0.8555395043893766
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_1976.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_1976.weights 0.7090826521344232 0.8675408378708745
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2080.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2080.weights 0.7200218023255814 0.8807645293921547
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_208.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_208.weights 0.46646278250051837 1.0
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2184.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2184.weights 0.7316890881913304 0.870318924324925
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2288.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2288.weights 0.6800199468085106 0.9092121346816313
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2392.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2392.weights 0.7509245377311344 0.8348705411712413
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2496.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2496.weights 0.6693593989821471 0.9207689743304812
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2600.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2600.weights 0.694964664310954 0.8742082453605956
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2704.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2704.weights 0.7642135347555374 0.8319813312590287
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2808.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2808.weights 0.672910897540316 0.9181020113345927
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_2912.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_2912.weights 0.7901680009020182 0.7787531947994222
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3016.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3016.weights 0.7203483043079744 0.8733192576952995
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3120.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3120.weights 0.732439882140481 0.8563173685965108
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_312.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_312.weights 0.47490004442470013 0.2375819535503945
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3224.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3224.weights 0.7558116029917121 0.8309812201355706
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3328.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3328.weights 0.7643253234750462 0.8270918990999
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3432.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3432.weights 0.6938740441618696 0.8974330481164574
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3536.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3536.weights 0.7817188169738534 0.8106456272919214
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3640.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3640.weights 0.7078661926898187 0.8629847760862318
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3744.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3744.weights 0.8125153675928203 0.734414934992777
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3848.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3848.weights 0.8424012371713764 0.6658517613068119
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_3952.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_3952.weights 0.656953536643781 0.9144349372152462
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4056.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4056.weights 0.6542282719236486 0.9293254806089566
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4160.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4160.weights 0.6914709944751382 0.8900988998777642
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4264.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4264.weights 0.636157508880659 0.9353261473497055
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4368.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4368.weights 0.6932350390286209 0.8882098010890099
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4472.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4472.weights 0.7892285646047289 0.734414934992777
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4576.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4576.weights 0.7430194492586174 0.857539726636293
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4680.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4680.weights 0.6443476266911259 0.9367707523058117
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4784.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4784.weights 0.6754341595009273 0.8903211467940882
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4888.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4888.weights 0.6755540743209465 0.9009889987776419
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_4992.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_4992.weights 0.6749729144095341 0.8999888876541838
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5096.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5096.weights 0.7441130298273155 0.8427603067007445
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5200.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5200.weights 0.724618320610687 0.8438715412823647
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_520.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_520.weights 0.7 0.000777864207134126
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5304.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5304.weights 0.6995247315613449 0.8832092454717191
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5408.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5408.weights 0.7434627575277337 0.8340926769641072
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5512.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5512.weights 0.7306181121226641 0.8472052450272253
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5616.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5616.weights 0.7218405947115837 0.8524280475608401
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5720.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5720.weights 0.7810391363022942 0.771752416935215
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5824.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5824.weights 0.7117375231053604 0.8557617513057006
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_5928.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_5928.weights 0.6373382341680067 0.9248805422824758
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6032.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6032.weights 0.6476981600807391 0.9271030114457162
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6136.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6136.weights 0.7352481438061743 0.8363151461273475
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6240.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6240.weights 0.6084800574919152 0.9408823202578064
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_624.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_624.weights 0.9441233140655106 0.054450494499388824
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6344.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6344.weights 0.6432558139534884 0.9221024558284254
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6448.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6448.weights 0.7676397716255521 0.7918657628625403
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6552.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6552.weights 0.7502385243294816 0.7864207134126014
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6656.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6656.weights 0.7748426258992805 0.7659739971107901
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6760.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6760.weights 0.6585950413223141 0.8855428380931215
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6864.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6864.weights 0.7281505567050941 0.821202355817313
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_6968.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_6968.weights 0.7673495655904752 0.7949772196910768
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7072.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7072.weights 0.6883816363170043 0.894766085120569
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7176.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7176.weights 0.7191755612808245 0.8685409489943327
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7280.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7280.weights 0.7192803486970231 0.8618735415046116
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_728.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_728.weights 0.8439861460957179 0.5957328592065785
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7384.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7384.weights 0.6820824524312896 0.8604289365485054
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7488.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7488.weights 0.7275297328914019 0.8293143682631403
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7592.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7592.weights 0.705658324265506 0.8647627514168241
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7696.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7696.weights 0.7123336929162172 0.8805422824758307
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7800.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7800.weights 0.6969642048028999 0.8546505167240804
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_7904.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_7904.weights 0.6844617288315361 0.8605400600066674
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8008.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8008.weights 0.7638016886772029 0.784087120791199
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8112.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8112.weights 0.7673037468955837 0.7896432936993
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8216.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8216.weights 0.7671446037568078 0.7669741082342483
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8320.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8320.weights 0.6141975308641975 0.9287698633181465
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_832.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_832.weights 0.7140181388012619 0.8048672074674964
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8424.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8424.weights 0.6623515831134564 0.8926547394154906
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8528.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8528.weights 0.6946002805049089 0.8805422824758307
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8632.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8632.weights 0.7373953868136355 0.8028669852205801
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8736.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8736.weights 0.7635142339268579 0.7957550838982109
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8840.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8840.weights 0.7266628330458118 0.8425380597844205
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_8944.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_8944.weights 0.6856591865357644 0.8692076897433048
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9048.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9048.weights 0.7399289099526066 0.832759195466163
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9152.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9152.weights 0.670690811535882 0.888987665296144
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9256.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9256.weights 0.7165750047411341 0.83975997333037
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9360.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9360.weights 0.7470745226852802 0.808756528503167
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_936.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_936.weights 0.8255829810445929 0.672741415712857
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9464.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9464.weights 0.7273359150034753 0.8139793310367819
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9568.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9568.weights 0.6619039707592623 0.8854317146349594
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9672.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9672.weights 0.6879718599862732 0.8910990110012224
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9776.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9776.weights 0.7758973806187345 0.7998666518502056
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9880.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9880.weights 0.7263007159904534 0.845427269696633
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 
+ Try to load cfg: /data1/yolo/model/yolov2-voc.cfg, weights: /data1/yolo/model/weights/backup.2461/yolov2-voc_9984.weights, clear = 0 
+Total BFLOPS 29.338 
+/home/ubuntu/mynotebooks/yolo/classifier.py
+/data1/yolo/detector/lib/classifier.py
+/data1/yolo/model/weights/backup.2461/yolov2-voc_9984.weights 0.7145510260934163 0.8550950105567285
+
+ seen 64 
+Loaded - names_list: /data1/yolo/model/obj.names, classes = 1 

@@ -1,0 +1,1133 @@
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10088.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10088.weights 0.5400619743249225 0.6214977075904228
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10192.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10192.weights 0.6296953564034309 0.5422822210901681
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10296.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10296.weights 0.5933026584867076 0.5911869587366276
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10400.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10400.weights 0.5521032504780115 0.5883851248089659
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1040.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1040.weights 0.7291997880233174 0.35048395313295977
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_104.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_104.weights 0.29928342735173047 1.0
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10504.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10504.weights 0.5739428012710829 0.5980641874681609
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10608.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10608.weights 0.4980102330869812 0.6693835965359144
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10712.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10712.weights 0.5416279069767442 0.5932246561385635
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10816.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10816.weights 0.5927272727272728 0.5397350993377483
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_10920.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_10920.weights 0.5758683729433273 0.5616403464085583
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11024.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11024.weights 0.5983857500695797 0.5476311767702496
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11128.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11128.weights 0.5464211618257261 0.5366785532348446
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11232.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11232.weights 0.6319534282018111 0.4977075904228222
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11336.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11336.weights 0.5603493912122817 0.5392256749872644
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11440.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11440.weights 0.5848238482384824 0.5496688741721855
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1144.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1144.weights 0.6997708174178763 0.46663270504330107
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11544.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11544.weights 0.5892006352567496 0.5669893020886398
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11648.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11648.weights 0.5677203803649448 0.5626591951095262
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11752.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11752.weights 0.520863309352518 0.6454406520631686
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11856.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11856.weights 0.6458126448195962 0.49694345389709627
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_11960.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_11960.weights 0.5951898000579542 0.5231788079470199
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12064.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12064.weights 0.6001174398120963 0.5206316861946001
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12168.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12168.weights 0.5910751565762005 0.5769230769230769
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12272.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12272.weights 0.5932073544433095 0.5916963830871116
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12376.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12376.weights 0.527877482651352 0.5618950585838003
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12480.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12480.weights 0.568663353387392 0.5537442689760571
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1248.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1248.weights 0.4605028386050284 0.7231278655119715
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12584.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12584.weights 0.5648662291771832 0.5700458481915436
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12688.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12688.weights 0.5042685292976329 0.6619969434538971
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12792.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12792.weights 0.5221973094170403 0.5932246561385635
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_12896.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_12896.weights 0.5459694989106754 0.6383087111563933
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13000.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13000.weights 0.5740166865315852 0.6133469179826796
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13104.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13104.weights 0.5678268018635243 0.5277636271013755
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13208.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13208.weights 0.5700160342063068 0.543301069791136
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13312.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13312.weights 0.5717250324254215 0.5613856342333163
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13416.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13416.weights 0.5123429084380611 0.5815078960774325
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13520.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13520.weights 0.5836451095670764 0.5562913907284768
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1352.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1352.weights 0.5753004949328305 0.6217524197656648
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13624.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13624.weights 0.5904269785150938 0.5529801324503312
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13728.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13728.weights 0.500525983589312 0.6059602649006622
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13832.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13832.weights 0.5474845995893224 0.543301069791136
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_13936.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_13936.weights 0.5450704225352113 0.5914416709118696
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14040.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14040.weights 0.5641846810781959 0.5384615384615384
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14144.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14144.weights 0.4804447852760736 0.6383087111563933
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14248.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14248.weights 0.5146252285191956 0.5736118186449313
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14352.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14352.weights 0.5893546607832322 0.5443199184921039
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14456.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14456.weights 0.5855513307984791 0.5491594498217015
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14560.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14560.weights 0.5491642084562438 0.5690269994905757
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1456.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1456.weights 0.5316132031613203 0.5825267447784004
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14664.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14664.weights 0.5238095238095238 0.5295466123280693
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14768.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14768.weights 0.5802857142857143 0.5173204279164544
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14872.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14872.weights 0.5585738539898133 0.586602139582272
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_14976.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_14976.weights 0.5566551212271152 0.5731023942944473
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15080.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15080.weights 0.5962264150943396 0.4829342842587876
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15184.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15184.weights 0.6260809408509166 0.4610290371879776
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15288.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15288.weights 0.5518528392428685 0.5272542027508915
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15392.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15392.weights 0.57379167743603 0.565461029037188
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15496.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15496.weights 0.5663806158505805 0.5715741212429954
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15600.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15600.weights 0.5455632623774217 0.5809984717269485
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1560.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1560.weights 0.530874430169913 0.652572592969944
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15704.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15704.weights 0.5542706964520367 0.5371879775853285
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15808.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15808.weights 0.5329646017699115 0.6136016301579216
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_15912.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_15912.weights 0.46778087279480035 0.6416199694345389
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16016.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16016.weights 0.5311726867887184 0.5468670402445237
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16120.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16120.weights 0.6395646606914213 0.5089149261334692
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16224.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16224.weights 0.5283820955238809 0.5382068262862965
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16328.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16328.weights 0.6102699144173799 0.4722363728986246
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16432.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16432.weights 0.5482080924855491 0.6039225674987264
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16536.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16536.weights 0.5513029315960912 0.5173204279164544
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16640.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16640.weights 0.6135573580533025 0.5394803871625063
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1664.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1664.weights 0.5869330453563715 0.5537442689760571
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16744.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16744.weights 0.5982587064676617 0.4900662251655629
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16848.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16848.weights 0.6121951219512195 0.5114620478858889
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_16952.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_16952.weights 0.5859926574414007 0.5285277636271014
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17056.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17056.weights 0.6433452652131467 0.5035659704533877
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17160.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17160.weights 0.5674293405114401 0.5369332654100866
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17264.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17264.weights 0.5749290688676812 0.5677534386143658
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17368.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17368.weights 0.6123737373737373 0.49414161996943456
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17472.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17472.weights 0.5940094899169632 0.5101884870096791
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17576.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17576.weights 0.5893987341772152 0.5692817116658176
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17680.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17680.weights 0.6225429975429976 0.5163015792154865
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1768.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1768.weights 0.5238949966345076 0.5947529291900153
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17784.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17784.weights 0.594119342750072 0.5249617931737137
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17888.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17888.weights 0.5510105871029837 0.5832908813041263
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_17992.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_17992.weights 0.6245647356758468 0.5025471217524198
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18096.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18096.weights 0.5186757215619694 0.6225165562913907
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18200.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18200.weights 0.5767319497223035 0.5025471217524198
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18304.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18304.weights 0.5719844357976653 0.4867549668874172
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18408.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18408.weights 0.5903019744483159 0.5178298522669383
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18512.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18512.weights 0.5659466327827192 0.5672440142638818
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18616.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18616.weights 0.5858471948125176 0.5292919001528273
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18720.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18720.weights 0.6169031462060457 0.5094243504839532
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1872.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1872.weights 0.5539861144361983 0.5894039735099338
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18824.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18824.weights 0.6146875 0.5010188487009679
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_18928.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_18928.weights 0.5729896329504063 0.5208863983698421
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_19032.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_19032.weights 0.5547445255474452 0.5613856342333163
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_19136.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_19136.weights 0.5364504776269482 0.543555781966378
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_19240.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_19240.weights 0.5905318167845066 0.489302088639837
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_19344.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_19344.weights 0.570738255033557 0.5415180845644422
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_19448.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_19448.weights 0.5745316318218844 0.5389709628120224
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_19552.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_19552.weights 0.5871636771300448 0.5336220071319409
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_19656.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_19656.weights 0.5569363428861274 0.5593479368313805
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_1976.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_1976.weights 0.4986180210060807 0.6892511462047886
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2080.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2080.weights 0.49343455067706193 0.6125827814569537
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_208.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_208.weights 0.29928342735173047 1.0
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2184.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2184.weights 0.6896857016378929 0.39684156902699946
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2288.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2288.weights 0.5724118153140235 0.5084055017829853
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2392.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2392.weights 0.47991725564557836 0.7091186958736627
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2496.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2496.weights 0.5256198347107438 0.6479877738155884
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2600.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2600.weights 0.5424032795285678 0.5392256749872644
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2704.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2704.weights 0.5371702637889688 0.6276107997962302
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2808.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2808.weights 0.4771870286576169 0.6446765155374427
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_2912.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_2912.weights 0.5609887157442235 0.5318390219052471
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3016.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3016.weights 0.4763271162123386 0.761079979623026
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3120.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3120.weights 0.5504666811373996 0.6459500764136525
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_312.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_312.weights 0.3133047210300429 0.05578196637799287
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3224.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3224.weights 0.5226130653266332 0.5827814569536424
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3328.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3328.weights 0.5336495031616982 0.6018848700967906
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3432.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3432.weights 0.4881728441050475 0.6676006113092205
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3536.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3536.weights 0.5760247855100096 0.6156393275598574
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3640.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3640.weights 0.5787331467819893 0.5794701986754967
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3744.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3744.weights 0.5942118226600985 0.4915944982170148
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3848.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3848.weights 0.49678486128972993 0.6887417218543046
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_3952.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_3952.weights 0.5778841041998937 0.5537442689760571
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4056.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4056.weights 0.6077639751552795 0.49847172694854813
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4160.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4160.weights 0.5417448405253283 0.5883851248089659
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_416.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_416.weights 0.0 0.01
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4264.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4264.weights 0.6110484780157835 0.5522159959246052
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4368.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4368.weights 0.5041063746578021 0.6566479877738156
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4472.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4472.weights 0.5152109911678115 0.6686194600101885
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4576.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4576.weights 0.5599339310995752 0.6044319918492104
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4680.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4680.weights 0.5892552586696987 0.5280183392766175
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4784.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4784.weights 0.5373267769333929 0.6123280692817117
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4888.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4888.weights 0.547745077281389 0.6589403973509934
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_4992.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_4992.weights 0.5290102389078498 0.6711665817626082
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5096.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5096.weights 0.6441837732160313 0.5035659704533877
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5200.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5200.weights 0.5669789820207648 0.5703005603667856
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_520.weights, clear = 0 
+Total BFLOPS 29.338 
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5304.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5304.weights 0.5375341219290264 0.6018848700967906
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5408.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5408.weights 0.6024305555555556 0.5303107488537953
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5512.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5512.weights 0.5595297648824412 0.5697911360163016
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5616.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5616.weights 0.5682524503944537 0.6054508405501783
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5720.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5720.weights 0.5550699300699301 0.6469689251146205
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5824.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5824.weights 0.6211293260473588 0.521141110545084
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_5928.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_5928.weights 0.5414987912973409 0.6846663270504331
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6032.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6032.weights 0.6067738231917337 0.5384615384615384
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6136.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6136.weights 0.599052413384661 0.5152827305145186
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6240.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6240.weights 0.6076863554294558 0.6001018848700967
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_624.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_624.weights 0.8480565371024735 0.061130922058074376
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6344.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6344.weights 0.5724431818181818 0.6158940397350994
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6448.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6448.weights 0.5546747493588249 0.6059602649006622
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6552.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6552.weights 0.5151790583530267 0.7218543046357616
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6656.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6656.weights 0.6032930280421919 0.5973000509424351
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6760.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6760.weights 0.5343290236290682 0.6105450840550178
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6864.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6864.weights 0.5798505397176862 0.5336220071319409
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_6968.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_6968.weights 0.5627859684799187 0.5639327559857361
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7072.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7072.weights 0.5271805273833672 0.6619969434538971
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7176.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7176.weights 0.5040290088638195 0.6372898624554254
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7280.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7280.weights 0.5110606920022689 0.6884870096790626
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_728.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_728.weights 0.7162329615861215 0.14722363728986246
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7384.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7384.weights 0.562004530011325 0.5056036678553235
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7488.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7488.weights 0.4979370249728556 0.5840550178298523
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7592.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7592.weights 0.5943646996278575 0.5695364238410596
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7696.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7696.weights 0.5145161290322581 0.6500254712175242
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7800.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7800.weights 0.5226791013141161 0.6281202241467142
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_7904.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_7904.weights 0.5674049767569046 0.5285277636271014
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8008.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8008.weights 0.5782399188435202 0.5807437595517065
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8112.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8112.weights 0.6209273182957393 0.5048395313295976
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8216.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8216.weights 0.5876639145216125 0.6164034640855833
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8320.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8320.weights 0.5557909604519774 0.6013754457463066
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_832.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_832.weights 0.7338651196519217 0.25776872134488027
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8424.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8424.weights 0.5898004434589801 0.5420275089149261
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8528.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8528.weights 0.596547144754316 0.5720835455934794
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8632.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8632.weights 0.5743498555234496 0.6581762608252675
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8736.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8736.weights 0.5454153182308522 0.6439123790117167
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8840.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8840.weights 0.664714494875549 0.4625573102394294
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_8944.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_8944.weights 0.5698651056248409 0.5703005603667856
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9048.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9048.weights 0.4808203570072161 0.6449312277126846
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9152.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9152.weights 0.506150174407931 0.7022414671421294
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9256.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9256.weights 0.547850507669043 0.6459500764136525
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9360.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9360.weights 0.5453712190650779 0.6062149770759042
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_936.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_936.weights 0.6608118657298985 0.4312277126846663
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9464.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9464.weights 0.537090666072622 0.6141110545084055
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9568.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9568.weights 0.5098864114429954 0.6174223127865512
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9672.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9672.weights 0.5074081200692707 0.6716760061130922
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9776.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9776.weights 0.5546892914469158 0.6161487519103414
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9880.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9880.weights 0.6130624092888244 0.5379521141110545
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
+ Try to load cfg: ../model/yolo-obj.cfg, weights: /mnt/weights/backup.955.strict/yolo-obj_9984.weights, clear = 0 
+Total BFLOPS 29.338 
+/mnt/weights/backup.955.strict/yolo-obj_9984.weights 0.624420401854714 0.5145185939887926
+
+ seen 64 
+Loaded - names_list: /data/yolo/model/obj.names, classes = 1 
