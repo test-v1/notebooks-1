@@ -1,1 +1,1 @@
-/data1/yolo/TheSpaghettiDetective/ml_api/lib/detection_model.py
+/mnt/ml-data1/TheSpaghettiDetective/ml_api/lib/detection_model.py
